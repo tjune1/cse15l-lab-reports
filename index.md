@@ -1,3 +1,4 @@
-Hello, world! 
-# First Lab
-[CSE15L WEB](https://ucsd-cse15l-s23.github.io/)
+# First Lab Report
+1. ## Installing VScode
+2. ## Remotely Connecting
+3. ## Trying Some Commands
