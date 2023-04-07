@@ -1,4 +1,4 @@
-# First Lab Report
+# First Lab Report - Jun T.
 ## 1. Installing VScode
 1. Install *Visual Studio Code* from the website [https://code.visualstudio.com/](https://code.visualstudio.com/). 
 2. Follow the instructions to download and install it. I downloaded the macOS version because my computer is Mac.
