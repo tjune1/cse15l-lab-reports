@@ -3,7 +3,6 @@
 1. Install *Visual Studio Code* from the website [https://code.visualstudio.com/](https://code.visualstudio.com/). 
 2. Follow the instructions to download and install it. I downloaded the macOS version because my computer is Mac.
 3. After successfully installing, I opened a window that lookd like this (you'll see something very similar to this picture after successfully installing, colors might be different).
-
 ![Image](VSCode.png)
 
 ## 2. Remotely Connecting
