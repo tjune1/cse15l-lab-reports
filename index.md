@@ -24,11 +24,11 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ![Image](Remote.png)
 
 ## 3. Trying Some Commands
-1. Type *ls* to see all the names and folders directly in the directory. 
-2. Use *cd perl5* to switch to the path *perl5*. 
-3. Type *ls -lat* to see all the mode, number of links, owner, group, size (in bytes), and time of last modification for each file. 
-4. Type *ls -a* to look for all possible directory that I can access in *perl5*
-5. Given directory /home/linux/ieng6/cs15lsp23/..., type *ls /home/linux* and *ls /home/linux/staff* to see the files and folders in the given path.
+1. Type `ls` to see all the names and folders directly in the directory. 
+2. Use `cd perl5` to switch to the path `perl5`. 
+3. Type `ls -lat` to see all the mode, number of links, owner, group, size (in bytes), and time of last modification for each file. 
+4. Type `ls -a` to look for all possible directory that I can access in `perl5`
+5. Given directory `/home/linux/ieng6/cs15lsp23/...`, type `ls /home/linux` and `ls /home/linux/staff` to see the files and folders in the given path.
 
 **This is a screenshot of the commands listed above:**
 ![Image](commands.png)
